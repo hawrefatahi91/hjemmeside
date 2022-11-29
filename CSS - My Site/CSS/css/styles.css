@@ -1,0 +1,86 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    font-size: 200%;
+}
+
+h1 {
+    font-size: 5.625rem;
+    margin: 50px auto 0 auto;
+    font-family: 'Sacramento', sans-serif;
+    font-weight: normal;
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    padding-bottom: 10px;
+    color: #66BFBF
+    
+    }
+
+h3 {
+    font-family: 'Montserrat', sans-serif;
+    color: #11999E
+    }
+
+    .top-cont {
+    background-color: #DEF5E5;
+    position: relative;
+    padding-top: 100px;
+    }
+
+.pro{
+    text-decoration: underline;
+    }
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto 100px auto
+}
+
+.chilling-img {
+    width: 30%;
+    float: left;
+    margin: right;
+}
+
+.gaming-img {
+    width: 60%;
+    float: right;
+    margin: left;
+}
+
+.middle-cont {
+    margin: 100px 0;
+}
+
+
+.top-cloud {
+    position: absolute;
+    right: 300px;
+    top: 50px;
+    }
+
+.buttom-cloud{
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+    }
+
+a{
+margin: 10px 20px;
+text-decoration: none;
+}
+
+a:hover {
+    color: #DEF5E5
+}
+
+.copyright{
+    font-size: 15px;
+}
+
+.bottom-container {
+    padding: 50px 50px 20px;
+}
